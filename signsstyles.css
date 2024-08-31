@@ -1,0 +1,16 @@
+.background {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.center-block {
+  width: 50%; 
+  margin-left: auto;
+  margin-right: auto;
+}
